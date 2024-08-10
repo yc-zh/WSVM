@@ -28,7 +28,7 @@ def setup_seed(seed):
 # Argument parser
 def parse_args():
     parser = argparse.ArgumentParser(description="Vision Transformer Training Script")
-    parser.add_argument('--data_dir', default='tongue', type=str, help='Directory of the dataset')
+    parser.add_argument('--data_dir', default='data/tongue', type=str, help='Directory of the dataset')
     parser.add_argument('--num_epochs', default=30, type=int, help='Number of training epochs')
     parser.add_argument('--batch_size', default=32, type=int, help='Batch size for training')
     parser.add_argument('--weight_path', default='vit_weights/vit_base_patch16_224.pth', type=str, help='Path to pretrained weights')
