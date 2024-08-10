@@ -1,0 +1,18 @@
+args: Namespace(data_dir='tongue', num_epochs=30, batch_size=32, weight_path='vit_weights/vit_base_patch16_224.pth', output_dir='models', learning_rate=1e-05, num_folds=5, seed=42, device='cuda:0', log_dir='logs', results='results')
+Fold 1/5
+args: Namespace(data_dir='tongue', num_epochs=30, batch_size=32, weight_path='vit_weights/vit_base_patch16_224.pth', output_dir='models', learning_rate=1e-05, num_folds=5, seed=42, device='cuda:0', log_dir='logs', results='results')
+Fold 1/5
+args: Namespace(data_dir='tongue', num_epochs=30, batch_size=32, weight_path='vit_weights/vit_base_patch16_224.pth', output_dir='models', learning_rate=1e-05, num_folds=5, seed=42, device='cuda:0', log_dir='logs', results='results')
+Fold 1/5
+args: Namespace(data_dir='tongue', num_epochs=30, batch_size=32, weight_path='vit_weights/vit_base_patch16_224.pth', output_dir='models', learning_rate=1e-05, num_folds=5, seed=42, device='cuda:0', log_dir='logs', results='results')
+Fold 1/5
+args: Namespace(data_dir='tongue', num_epochs=30, batch_size=32, weight_path='vit_weights/vit_base_patch16_224.pth', output_dir='models', learning_rate=1e-05, num_folds=5, seed=42, device='cuda:0', log_dir='logs', results='results')
+Fold 1/5
+val Loss: 0.6726 Acc: 0.8600 Recall: 0.8450 Precision: 0.8790 F1: 0.8617
+Fold 2/5
+args: Namespace(data_dir='tongue', num_epochs=30, batch_size=32, weight_path='vit_weights/vit_base_patch16_224.pth', output_dir='models', learning_rate=1e-05, num_folds=5, seed=42, device='cuda:0', log_dir='logs', results='results')
+Fold 1/5
+args: Namespace(data_dir='tongue', num_epochs=30, batch_size=32, weight_path='vit_weights/vit_base_patch16_224.pth', output_dir='models', learning_rate=1e-05, num_folds=5, seed=77, device='cuda:0', log_dir='logs', results='results')
+Fold 1/5
+val Loss: 0.7133 Acc: 0.8920 Recall: 0.8797 Precision: 0.9141 F1: 0.8966
+Fold 2/5

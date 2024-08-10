@@ -1,0 +1,9 @@
+train: C:\Users\17947\Desktop\vs-py\tongue_detection\my_detection\yolov8\data\train.txt
+val: C:\Users\17947\Desktop\vs-py\tongue_detection\my_detection\yolov8\data\val.txt
+test: C:\Users\17947\Desktop\vs-py\tongue_detection\my_detection\yolov8\data\test.txt
+
+# number of classes
+nc: 1
+
+# class names
+names: ['tongue']
