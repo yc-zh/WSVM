@@ -1,6 +1,6 @@
 # WSVM: Weakly Supervised Object Detection for Automatic Tooth-marked Tongue Recognition
 
-WSVM is a fully automated method for tongue detection that focuses on accurately extracting the tongue foreground from raw clinical images. This repository proposes a weakly supervised object detection method based on Vision Transformer (ViT) and Multiple Instance Learning (MIL) to recognize tooth-marked tongues, and validates the effectiveness of WSVM in detecting and distinguishing tooth-marked tongues.
+WSVM is a fully automated method using Vision Transformer (ViT) and Multiple Instance Learning (MIL) for tongue extraction and tooth-marked tongue recognition. It accurately detects the tongue region in clinical images and uses weakly supervised learning to identify tooth-marked areas with only image-level annotations. WSVM enhances the objectivity and accuracy of tongue diagnosis in Traditional Chinese Medicine (TCM), providing significant clinical value.
 
 ## Table of Contents
 
@@ -44,7 +44,7 @@ conda activate WSVM
 Download the dataset from the following link: [Tongue Image Dataset](https://www.kaggle.com/datasets/clearhanhui/biyesheji?resource=download) and put it in the `data/tongue` directory.
 
 ### Pretrained Model
-The pre-trained model weights can be downloaded from the following link: [Pre-trained model](https://pan.baidu.com/s/1zqb08naP0RPqqfSXfkB2EA) and put it in the `vit_weights` directory.
+The pre-trained model weights are based on the [deep-learning-for-image-processing](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing). The weights can be downloaded from the following link: [Pre-trained model](https://pan.baidu.com/s/1zqb08naP0RPqqfSXfkB2EA) and put it in the `vit_weights` directory. The extraction code is `eu9f`.
 
 ## Getting Started
 ### Training the Model
