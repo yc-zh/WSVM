@@ -1,6 +1,6 @@
 # WSVM: Weakly Supervised Object Detection for Automatic Tooth-marked Tongue Recognition
 
-WSVM is a fully automated method using Vision Transformer (ViT) and Multiple Instance Learning (MIL) for tongue extraction and tooth-marked tongue recognition. It accurately detects the tongue region in clinical images and uses weakly supervised learning to identify tooth-marked areas with only image-level annotations. WSVM enhances the objectivity and accuracy of tongue diagnosis in Traditional Chinese Medicine (TCM), providing significant clinical value.
+WSVM is a fully automated method using Vision Transformer (ViT) and Multiple Instance Learning (MIL) for tongue extraction and tooth-marked tongue recognition. It accurately detects the tongue region in clinical images and uses weakly supervised learning to identify tooth-marked areas with only image-level annotations. WSVM enhances the objectivity and accuracy of tongue diagnosis in Traditional Chinese Medicine (TCM).
 
 ## Table of Contents
 
