@@ -22,7 +22,7 @@ WSVM is a fully automated method using Vision Transformer (ViT) and Multiple Ins
 
 ### Prerequisites
 
-- Python 3.19.9 
+- Python 3.9.19 
 - PyTorch 2.2.2, CUDA 12.3
 - Required Python packages (specified in `environment.yaml`)
 
